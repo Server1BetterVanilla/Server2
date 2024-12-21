@@ -337,3 +337,16 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 [21:15:12] [Server thread/INFO]: chat.type.admin
 [21:15:57] [Server thread/INFO]: Itsjose100xD lost connection: multiplayer.disconnect.generic
 [21:15:57] [Server thread/INFO]: multiplayer.player.left
+[21:30:10] [Server thread/INFO]: Itsjose100xD[/127.152.58.243:36989] logged in with entity id 33590 at (-6.300000011920929, 82.0, 74.30000001192093)
+[21:30:10] [Server thread/INFO]: multiplayer.player.joined
+[21:32:21] [Server thread/INFO]: chat.type.admin
+[21:32:33] [Server thread/INFO]: Itsjose100xD lost connection: multiplayer.disconnect.generic
+[21:32:33] [Server thread/INFO]: multiplayer.player.left
+[21:35:26] [Server thread/INFO]: Destroyer316[/127.173.228.81:44159] logged in with entity id 35137 at (306.81128383374084, 63.0, -4815.413872841416)
+[21:35:26] [Server thread/INFO]: multiplayer.player.joined
+[21:36:05] [Server thread/INFO]: Destroyer316 lost connection: multiplayer.disconnect.generic
+[21:36:05] [Server thread/INFO]: multiplayer.player.left
+[21:38:20] [Server thread/INFO]: Ikii123[/127.173.228.81:52837] logged in with entity id 35937 at (318.2483597209175, 64.0, -4805.785387511503)
+[21:38:20] [Server thread/INFO]: multiplayer.player.joined
+[21:39:27] [Server thread/INFO]: Ikii123 lost connection: multiplayer.disconnect.generic
+[21:39:27] [Server thread/INFO]: multiplayer.player.left
