@@ -1078,8 +1078,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-21 21:52:54 +0000",
       "minecraft:skeleton": "2024-12-16 19:19:53 +0000",
       "minecraft:silverfish": "2024-12-18 16:20:36 +0000",
+      "minecraft:enderman": "2024-12-21 22:04:37 +0000",
       "minecraft:spider": "2024-12-16 18:44:34 +0000",
       "minecraft:zombie": "2024-12-16 18:44:37 +0000"
     },
@@ -2804,6 +2806,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-12-21 21:08:04 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-12-21 21:46:20 +0000"
     },
     "done": true
   },

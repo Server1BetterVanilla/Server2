@@ -2388,5 +2388,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 21:59:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
