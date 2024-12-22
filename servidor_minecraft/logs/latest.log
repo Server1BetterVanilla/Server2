@@ -302,3 +302,9 @@
 [20:42:30] [Server thread/INFO]: multiplayer.player.left
 [20:42:42] [Server thread/INFO]: nachopellet[/127.173.228.81:33423] logged in with entity id 13911 at (-469.6768941751596, 63.0, -525.1200988021444)
 [20:42:42] [Server thread/INFO]: multiplayer.player.joined
+[20:53:28] [Server thread/INFO]: nachopellet lost connection: multiplayer.disconnect.generic
+[20:53:28] [Server thread/INFO]: multiplayer.player.left
+[20:53:47] [Server thread/INFO]: Ryuku46[/127.38.203.138:50871] logged in with entity id 16056 at (89.61596208923571, 72.0, 77.80440795010385)
+[20:53:47] [Server thread/INFO]: multiplayer.player.joined
+[20:53:51] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
+[20:53:51] [Server thread/INFO]: multiplayer.player.left
