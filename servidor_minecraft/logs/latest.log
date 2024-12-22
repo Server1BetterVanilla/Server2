@@ -297,3 +297,8 @@
 [20:23:21] [Server thread/INFO]: multiplayer.player.joined
 [20:26:12] [Server thread/INFO]: Gl1tch_212 lost connection: multiplayer.disconnect.generic
 [20:26:12] [Server thread/INFO]: multiplayer.player.left
+[20:36:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-448, y=64, z=-534} class_2338{x=-447, y=63, z=-535}
+[20:42:30] [Server thread/INFO]: nachopellet lost connection: multiplayer.disconnect.generic
+[20:42:30] [Server thread/INFO]: multiplayer.player.left
+[20:42:42] [Server thread/INFO]: nachopellet[/127.173.228.81:33423] logged in with entity id 13911 at (-469.6768941751596, 63.0, -525.1200988021444)
+[20:42:42] [Server thread/INFO]: multiplayer.player.joined
