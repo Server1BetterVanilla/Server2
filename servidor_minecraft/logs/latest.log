@@ -308,3 +308,11 @@
 [20:53:47] [Server thread/INFO]: multiplayer.player.joined
 [20:53:51] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
 [20:53:51] [Server thread/INFO]: multiplayer.player.left
+[20:54:05] [Server thread/INFO]: Ryuku46[/127.38.203.138:37641] logged in with entity id 16246 at (89.61596208923571, 72.0, 77.80440795010385)
+[20:54:05] [Server thread/INFO]: multiplayer.player.joined
+[20:54:10] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
+[20:54:10] [Server thread/INFO]: multiplayer.player.left
+[20:54:29] [Server thread/INFO]: Ryuku46[/127.38.203.138:33655] logged in with entity id 16426 at (89.61596208923571, 72.0, 77.80440795010385)
+[20:54:29] [Server thread/INFO]: multiplayer.player.joined
+[20:54:32] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
+[20:54:32] [Server thread/INFO]: multiplayer.player.left
