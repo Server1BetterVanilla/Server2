@@ -422,3 +422,16 @@
 [19:36:39] [Server thread/INFO]: Foxy77_YT lost connection: multiplayer.disconnect.generic
 [19:36:39] [Server thread/INFO]: multiplayer.player.left
 [19:42:15] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/54499, l='ServerLevel[world]', x=-464.40, y=63.00, z=-489.10] died, message: 'death.attack.inWall'
+[19:44:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-445, y=69, z=-481} class_2338{x=-445, y=68, z=-481}
+[19:44:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-445, y=69, z=-481} class_2338{x=-445, y=68, z=-481}
+[19:44:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-445, y=69, z=-481} class_2338{x=-445, y=68, z=-481}
+[19:45:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-444, y=68, z=-482} class_2338{x=-443, y=68, z=-482}
+[19:53:23] [Server thread/INFO]: [Not Secure] chat.type.text
+[19:53:24] [Server thread/INFO]: [Not Secure] chat.type.text
+[19:53:24] [Server thread/INFO]: [Not Secure] chat.type.text
+[19:53:24] [Server thread/INFO]: [Not Secure] chat.type.text
+[19:53:24] [Server thread/INFO]: [Not Secure] chat.type.text
+[19:53:37] [Server thread/INFO]: nachopellet lost connection: multiplayer.disconnect.generic
+[19:53:37] [Server thread/INFO]: multiplayer.player.left
+[19:53:41] [Server thread/INFO]: nachopellet[/127.173.228.81:50051] logged in with entity id 108086 at (-460.5222616048908, 65.0, -475.5170827933383)
+[19:53:41] [Server thread/INFO]: multiplayer.player.joined
