@@ -281,3 +281,17 @@
 [20:11:02] [Server thread/INFO]: multiplayer.player.left
 [20:11:14] [Server thread/INFO]: Itsjose100xD lost connection: multiplayer.disconnect.generic
 [20:11:14] [Server thread/INFO]: multiplayer.player.left
+[20:17:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-458, y=65, z=-491} class_2338{x=-458, y=65, z=-493}
+[20:17:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-458, y=65, z=-491} class_2338{x=-458, y=65, z=-493}
+[20:17:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-458, y=65, z=-491} class_2338{x=-458, y=65, z=-493}
+[20:19:32] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/54, l='ServerLevel[world]', x=-464.75, y=63.00, z=-489.39] died, message: 'death.attack.inWall'
+[20:20:07] [Server thread/INFO]: Gl1tch_212[/127.147.2.196:34179] logged in with entity id 8719 at (-474.35694738941714, 65.0, -495.53581355205705)
+[20:20:07] [Server thread/INFO]: multiplayer.player.joined
+[20:20:33] [Server thread/INFO]: Gl1tch_212 lost connection: multiplayer.disconnect.generic
+[20:20:33] [Server thread/INFO]: multiplayer.player.left
+[20:22:28] [Server thread/INFO]: Gl1tch_212[/127.147.2.196:55683] logged in with entity id 9069 at (-474.35694738941714, 65.0, -495.53581355205705)
+[20:22:28] [Server thread/INFO]: multiplayer.player.joined
+[20:23:10] [Server thread/INFO]: Gl1tch_212 lost connection: multiplayer.disconnect.generic
+[20:23:10] [Server thread/INFO]: multiplayer.player.left
+[20:23:21] [Server thread/INFO]: Gl1tch_212[/127.147.2.196:38399] logged in with entity id 9184 at (-473.5811241622972, 65.0, -485.89588619579564)
+[20:23:21] [Server thread/INFO]: multiplayer.player.joined
