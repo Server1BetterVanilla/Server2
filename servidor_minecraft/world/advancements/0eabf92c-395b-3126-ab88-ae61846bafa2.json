@@ -57,9 +57,11 @@
       "minecraft:birch_forest": "2024-12-19 18:31:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-21 22:35:19 +0000",
       "minecraft:snowy_beach": "2024-12-22 19:23:30 +0000",
+      "minecraft:bamboo_jungle": "2024-12-22 19:36:52 +0000",
       "minecraft:windswept_savanna": "2024-12-19 17:50:05 +0000",
       "minecraft:beach": "2024-12-16 19:21:34 +0000",
       "minecraft:dark_forest": "2024-12-21 22:25:58 +0000",
+      "minecraft:stony_peaks": "2024-12-22 19:31:29 +0000",
       "minecraft:sparse_jungle": "2024-12-19 18:42:09 +0000",
       "minecraft:river": "2024-12-16 18:36:59 +0000",
       "minecraft:stony_shore": "2024-12-16 19:55:23 +0000",
@@ -70,7 +72,8 @@
       "minecraft:deep_dark": "2024-12-17 20:22:59 +0000",
       "minecraft:grove": "2024-12-21 22:40:24 +0000",
       "minecraft:meadow": "2024-12-16 19:57:30 +0000",
-      "minecraft:plains": "2024-12-16 18:31:49 +0000"
+      "minecraft:plains": "2024-12-16 18:31:49 +0000",
+      "minecraft:jagged_peaks": "2024-12-22 19:31:25 +0000"
     },
     "done": false
   },
@@ -859,6 +862,7 @@
       "cooked_chicken": "2024-12-16 19:10:45 +0000",
       "potato": "2024-12-18 17:32:49 +0000",
       "cooked_cod": "2024-12-16 19:44:29 +0000",
+      "mushroom_stew": "2024-12-22 19:42:31 +0000",
       "pumpkin_pie": "2024-12-21 22:49:45 +0000",
       "carrot": "2024-12-17 20:12:59 +0000"
     },
@@ -3925,15 +3929,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
-      "has_packed_ice": "2024-12-22 19:24:13 +0000"
+      "has_log": "2024-12-22 19:42:04 +0000"
     },
     "done": true
   },
-  "vanilla_refresh:player/fall_high": {
+  "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
-      "requirement": "2024-12-22 19:28:40 +0000"
+      "has_stripped_logs": "2024-12-22 19:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-22 19:24:13 +0000"
     },
     "done": true
   },

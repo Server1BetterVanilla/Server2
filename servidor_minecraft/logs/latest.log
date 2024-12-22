@@ -415,3 +415,10 @@
 [19:30:18] [Server thread/INFO]: Itsjose100xD[/127.69.48.108:42171] logged in with entity id 71731 at (-472.0296154873074, 74.0, -488.64006538032436)
 [19:30:18] [Server thread/INFO]: multiplayer.player.joined
 [19:33:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=-1767} class_2338{x=-56, y=71, z=-1767}
+[19:33:26] [Server thread/INFO]: Itsjose100xD lost connection: multiplayer.disconnect.generic
+[19:33:26] [Server thread/INFO]: multiplayer.player.left
+[19:34:47] [Server thread/INFO]: Foxy77_YT[/127.85.7.69:41641] logged in with entity id 78515 at (339.39884988110344, 63.875, -4811.300000011921)
+[19:34:47] [Server thread/INFO]: multiplayer.player.joined
+[19:36:39] [Server thread/INFO]: Foxy77_YT lost connection: multiplayer.disconnect.generic
+[19:36:39] [Server thread/INFO]: multiplayer.player.left
+[19:42:15] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/54499, l='ServerLevel[world]', x=-464.40, y=63.00, z=-489.10] died, message: 'death.attack.inWall'
