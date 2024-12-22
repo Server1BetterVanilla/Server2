@@ -266,3 +266,7 @@
 [11:13:10] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_faucet_test_level
 [11:13:19] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_projectile_test_level
 [11:13:19] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_projectile_test_level
+[11:27:38] [Server thread/INFO]: Itsjose100xD[/127.69.48.108:49249] logged in with entity id 45 at (401.39252891929306, 51.0, -4839.653881310905)
+[11:27:38] [Server thread/INFO]: multiplayer.player.joined
+[11:30:25] [Server thread/INFO]: Itsjose100xD lost connection: multiplayer.disconnect.generic
+[11:30:25] [Server thread/INFO]: multiplayer.player.left
