@@ -45,15 +45,18 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-21 22:37:14 +0000",
       "minecraft:snowy_slopes": "2024-12-21 22:43:27 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-22 19:26:56 +0000",
       "minecraft:forest": "2024-12-16 18:46:01 +0000",
       "minecraft:taiga": "2024-12-21 22:35:08 +0000",
       "minecraft:lush_caves": "2024-12-17 18:54:34 +0000",
+      "minecraft:frozen_ocean": "2024-12-22 19:23:41 +0000",
       "minecraft:frozen_river": "2024-12-21 22:43:15 +0000",
       "minecraft:ocean": "2024-12-16 19:22:44 +0000",
       "minecraft:jungle": "2024-12-19 18:43:16 +0000",
       "minecraft:cherry_grove": "2024-12-16 18:38:20 +0000",
       "minecraft:birch_forest": "2024-12-19 18:31:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-21 22:35:19 +0000",
+      "minecraft:snowy_beach": "2024-12-22 19:23:30 +0000",
       "minecraft:windswept_savanna": "2024-12-19 17:50:05 +0000",
       "minecraft:beach": "2024-12-16 19:21:34 +0000",
       "minecraft:dark_forest": "2024-12-21 22:25:58 +0000",
@@ -3919,6 +3922,18 @@
   "vanilla_refresh:player/hurt": {
     "criteria": {
       "requirement": "2024-12-21 22:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-22 19:24:13 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/fall_high": {
+    "criteria": {
+      "requirement": "2024-12-22 19:28:40 +0000"
     },
     "done": true
   },

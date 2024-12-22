@@ -2715,15 +2715,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-22 18:36:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-22 18:49:21 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/fancy_painting": {
+  "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "has_fancy_painting": "2024-12-22 18:36:17 +0000"
+      "has_tripwire_hook": "2024-12-22 18:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-12-22 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-22 19:07:49 +0000"
     },
     "done": true
   },
