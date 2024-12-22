@@ -295,3 +295,5 @@
 [20:23:10] [Server thread/INFO]: multiplayer.player.left
 [20:23:21] [Server thread/INFO]: Gl1tch_212[/127.147.2.196:38399] logged in with entity id 9184 at (-473.5811241622972, 65.0, -485.89588619579564)
 [20:23:21] [Server thread/INFO]: multiplayer.player.joined
+[20:26:12] [Server thread/INFO]: Gl1tch_212 lost connection: multiplayer.disconnect.generic
+[20:26:12] [Server thread/INFO]: multiplayer.player.left
