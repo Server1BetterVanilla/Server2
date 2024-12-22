@@ -33,14 +33,15 @@ client.on('messageCreate', (message) => {
         message.reply('Iniciando el servidor de Minecraft...');
 
         // Configura la ruta al script y al directorio del servidor
-        const startScript = path.join(__dirname, 'servidor_minecraft/start-server.sh');
+        const startScript = path.join(__dirname, 'start-server.sh');
         const serverDirectory = path.join(__dirname, 'servidor_minecraft');
 
         // Inicia el servidor
-        serverProcess = spawn('bash', [startScript], {
-            cwd: serverDirectory, // Cambia el directorio de trabajo
-            stdio: 'inherit', // Redirige salida para depuración
-        });
+        serverProcess = spawn('./servidor_minecraft/start-server.sh'), {
+            cwd: path.join(__dirname, 'servidor_minecraft'), // Cambia el directorio de trabajo
+            };
+
+        
 
         // Escucha eventos del proceso del servidor
         serverProcess.stdout?.on('data', (data) => {
