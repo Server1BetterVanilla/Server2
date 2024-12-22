@@ -361,3 +361,9 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 	at net.minecraft.class_1642.method_5749(class_1642.java:424) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1297.method_5651(class_1297.java:2026) ~[server-intermediary.jar:?]
 	... 24 more
+[21:21:12] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
+[21:21:12] [Server thread/INFO]: multiplayer.player.left
+[21:21:18] [Server thread/INFO]: Ryuku46[/127.38.203.138:52819] logged in with entity id 18879 at (89.01935124287276, 72.0, 77.51709375181545)
+[21:21:18] [Server thread/INFO]: multiplayer.player.joined
+[21:23:50] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
+[21:23:50] [Server thread/INFO]: multiplayer.player.left
