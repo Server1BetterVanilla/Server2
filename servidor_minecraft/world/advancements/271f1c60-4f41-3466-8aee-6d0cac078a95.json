@@ -45,10 +45,12 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-16 19:15:43 +0000",
       "minecraft:snowy_slopes": "2024-12-16 20:00:16 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-21 23:26:18 +0000",
       "minecraft:forest": "2024-12-16 19:16:23 +0000",
       "minecraft:taiga": "2024-12-16 20:26:58 +0000",
       "minecraft:deep_ocean": "2024-12-16 20:16:58 +0000",
       "minecraft:lush_caves": "2024-12-17 17:50:56 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-21 22:30:06 +0000",
       "minecraft:frozen_ocean": "2024-12-20 23:21:16 +0000",
       "minecraft:frozen_river": "2024-12-20 23:20:43 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-20 23:22:14 +0000",
@@ -56,10 +58,15 @@
       "minecraft:cherry_grove": "2024-12-16 20:07:44 +0000",
       "minecraft:birch_forest": "2024-12-16 20:18:14 +0000",
       "minecraft:windswept_hills": "2024-12-20 23:08:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-21 23:26:11 +0000",
       "minecraft:snowy_beach": "2024-12-20 23:20:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-21 23:07:32 +0000",
       "minecraft:beach": "2024-12-16 20:12:13 +0000",
       "minecraft:dark_forest": "2024-12-17 17:31:06 +0000",
+      "minecraft:mangrove_swamp": "2024-12-21 23:43:59 +0000",
+      "minecraft:sparse_jungle": "2024-12-21 23:34:32 +0000",
       "minecraft:river": "2024-12-16 19:19:01 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-21 23:08:19 +0000",
       "minecraft:stony_shore": "2024-12-16 19:15:30 +0000",
       "minecraft:snowy_plains": "2024-12-21 11:40:55 +0000",
       "minecraft:dripstone_caves": "2024-12-16 19:39:36 +0000",
@@ -68,6 +75,7 @@
       "minecraft:swamp": "2024-12-20 23:08:16 +0000",
       "minecraft:grove": "2024-12-21 17:18:38 +0000",
       "minecraft:meadow": "2024-12-16 19:24:44 +0000",
+      "minecraft:savanna": "2024-12-21 23:10:07 +0000",
       "minecraft:plains": "2024-12-16 19:10:08 +0000"
     },
     "done": false
@@ -1688,6 +1696,7 @@
       "minecraft:spider": "2024-12-16 20:04:31 +0000",
       "minecraft:zombie": "2024-12-17 17:59:00 +0000",
       "minecraft:creeper": "2024-12-18 17:42:16 +0000",
+      "minecraft:drowned": "2024-12-21 22:30:23 +0000",
       "minecraft:zombie_villager": "2024-12-19 15:59:47 +0000"
     },
     "done": false
@@ -3555,6 +3564,216 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-21 17:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-21 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-21 23:09:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-21 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-21 23:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-21 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-21 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-21 23:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-21 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-21 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 23:13:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2024-12-21 23:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-21 23:13:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2024-12-21 23:13:17 +0000"
     },
     "done": true
   },

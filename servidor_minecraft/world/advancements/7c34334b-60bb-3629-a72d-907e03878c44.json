@@ -45,16 +45,26 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-21 22:11:15 +0000",
       "minecraft:snowy_slopes": "2024-12-16 18:38:43 +0000",
+      "minecraft:beach": "2024-12-21 22:19:00 +0000",
       "minecraft:forest": "2024-12-16 18:41:05 +0000",
+      "minecraft:taiga": "2024-12-21 22:39:36 +0000",
+      "minecraft:sparse_jungle": "2024-12-21 22:23:16 +0000",
       "minecraft:deep_ocean": "2024-12-21 22:18:06 +0000",
       "minecraft:river": "2024-12-16 18:36:37 +0000",
       "minecraft:stony_shore": "2024-12-16 18:36:35 +0000",
+      "minecraft:snowy_plains": "2024-12-21 22:49:05 +0000",
+      "minecraft:snowy_taiga": "2024-12-21 22:48:07 +0000",
       "minecraft:frozen_peaks": "2024-12-16 18:57:20 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 22:17:21 +0000",
+      "minecraft:frozen_river": "2024-12-21 22:49:13 +0000",
       "minecraft:deep_dark": "2024-12-18 16:59:35 +0000",
       "minecraft:ocean": "2024-12-21 22:17:28 +0000",
+      "minecraft:jungle": "2024-12-21 22:25:21 +0000",
       "minecraft:grove": "2024-12-16 18:44:12 +0000",
       "minecraft:meadow": "2024-12-16 18:50:35 +0000",
+      "minecraft:birch_forest": "2024-12-21 22:37:41 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-21 22:39:54 +0000",
+      "minecraft:bamboo_jungle": "2024-12-21 22:23:34 +0000",
       "minecraft:plains": "2024-12-16 18:31:59 +0000",
       "minecraft:jagged_peaks": "2024-12-18 17:20:04 +0000"
     },
@@ -1053,6 +1063,7 @@
       "cooked_mutton": "2024-12-16 18:41:28 +0000",
       "cooked_beef": "2024-12-16 18:54:37 +0000",
       "beef": "2024-12-19 18:25:15 +0000",
+      "melon_slice": "2024-12-21 22:24:48 +0000",
       "porkchop": "2024-12-16 20:05:16 +0000",
       "apple": "2024-12-16 18:41:31 +0000",
       "cooked_chicken": "2024-12-16 20:11:38 +0000",
@@ -2813,12 +2824,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-12-21 21:46:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 22:13:45 +0000"
@@ -2861,12 +2866,6 @@
     },
     "done": true
   },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2024-12-21 22:13:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 22:13:45 +0000"
@@ -2879,9 +2878,99 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-21 22:13:56 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_oak": "2024-12-21 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-21 22:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-21 22:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-21 22:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-21 22:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-21 22:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-21 22:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-21 22:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-21 22:25:37 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-12-21 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-21 22:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-21 22:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-21 22:34:46 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2024-12-21 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-21 22:59:08 +0000"
     },
     "done": true
   },

@@ -43,21 +43,30 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-16 19:21:34 +0000",
+      "minecraft:cold_ocean": "2024-12-21 22:37:14 +0000",
+      "minecraft:snowy_slopes": "2024-12-21 22:43:27 +0000",
       "minecraft:forest": "2024-12-16 18:46:01 +0000",
-      "minecraft:sparse_jungle": "2024-12-19 18:42:09 +0000",
-      "minecraft:river": "2024-12-16 18:36:59 +0000",
-      "minecraft:stony_shore": "2024-12-16 19:55:23 +0000",
+      "minecraft:taiga": "2024-12-21 22:35:08 +0000",
       "minecraft:lush_caves": "2024-12-17 18:54:34 +0000",
-      "minecraft:dripstone_caves": "2024-12-20 16:11:47 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-17 18:53:18 +0000",
-      "minecraft:deep_dark": "2024-12-17 20:22:59 +0000",
+      "minecraft:frozen_river": "2024-12-21 22:43:15 +0000",
       "minecraft:ocean": "2024-12-16 19:22:44 +0000",
       "minecraft:jungle": "2024-12-19 18:43:16 +0000",
       "minecraft:cherry_grove": "2024-12-16 18:38:20 +0000",
-      "minecraft:meadow": "2024-12-16 19:57:30 +0000",
       "minecraft:birch_forest": "2024-12-19 18:31:27 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-21 22:35:19 +0000",
       "minecraft:windswept_savanna": "2024-12-19 17:50:05 +0000",
+      "minecraft:beach": "2024-12-16 19:21:34 +0000",
+      "minecraft:dark_forest": "2024-12-21 22:25:58 +0000",
+      "minecraft:sparse_jungle": "2024-12-19 18:42:09 +0000",
+      "minecraft:river": "2024-12-16 18:36:59 +0000",
+      "minecraft:stony_shore": "2024-12-16 19:55:23 +0000",
+      "minecraft:snowy_plains": "2024-12-21 22:42:59 +0000",
+      "minecraft:dripstone_caves": "2024-12-20 16:11:47 +0000",
+      "minecraft:snowy_taiga": "2024-12-21 22:41:22 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-17 18:53:18 +0000",
+      "minecraft:deep_dark": "2024-12-17 20:22:59 +0000",
+      "minecraft:grove": "2024-12-21 22:40:24 +0000",
+      "minecraft:meadow": "2024-12-16 19:57:30 +0000",
       "minecraft:plains": "2024-12-16 18:31:49 +0000"
     },
     "done": false
@@ -836,6 +845,7 @@
       "pufferfish": "2024-12-18 17:28:02 +0000",
       "bread": "2024-12-16 19:40:03 +0000",
       "rotten_flesh": "2024-12-17 20:17:23 +0000",
+      "sweet_berries": "2024-12-21 22:42:52 +0000",
       "salmon": "2024-12-16 18:52:04 +0000",
       "cooked_beef": "2024-12-16 19:21:04 +0000",
       "baked_potato": "2024-12-18 17:35:42 +0000",
@@ -846,6 +856,7 @@
       "cooked_chicken": "2024-12-16 19:10:45 +0000",
       "potato": "2024-12-18 17:32:49 +0000",
       "cooked_cod": "2024-12-16 19:44:29 +0000",
+      "pumpkin_pie": "2024-12-21 22:49:45 +0000",
       "carrot": "2024-12-17 20:12:59 +0000"
     },
     "done": false
@@ -1583,6 +1594,7 @@
       "minecraft:cave_spider": "2024-12-17 17:02:13 +0000",
       "minecraft:skeleton": "2024-12-17 19:46:12 +0000",
       "minecraft:stray": "2024-12-17 17:54:25 +0000",
+      "minecraft:enderman": "2024-12-21 23:10:59 +0000",
       "minecraft:spider": "2024-12-17 19:47:44 +0000",
       "minecraft:zombie": "2024-12-17 16:59:01 +0000"
     },
@@ -3856,12 +3868,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-12-20 16:06:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-20 16:24:43 +0000"
@@ -3889,6 +3895,30 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-21 22:06:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2024-12-21 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-21 22:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-21 22:47:43 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-12-21 22:50:03 +0000"
     },
     "done": true
   },
