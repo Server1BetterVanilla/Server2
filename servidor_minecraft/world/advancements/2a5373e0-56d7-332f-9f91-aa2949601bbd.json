@@ -2813,5 +2813,11 @@
     },
     "done": true
   },
+  "minecraft:wander_add_map": {
+    "criteria": {
+      "wandering": "2024-12-23 14:50:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
