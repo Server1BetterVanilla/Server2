@@ -429,3 +429,19 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 [13:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=71, z=-457} class_2338{x=-464, y=70, z=-456}
 [13:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=71, z=-457} class_2338{x=-464, y=70, z=-456}
 [13:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-463, y=71, z=-457} class_2338{x=-464, y=70, z=-456}
+[13:20:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-470, y=69, z=-459} class_2338{x=-470, y=68, z=-460}
+[13:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=70, z=-459} class_2338{x=-471, y=68, z=-457}
+[13:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=70, z=-459} class_2338{x=-471, y=68, z=-457}
+[13:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=70, z=-459} class_2338{x=-471, y=68, z=-457}
+[13:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=70, z=-459} class_2338{x=-471, y=68, z=-457}
+[13:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-468, y=70, z=-459} class_2338{x=-471, y=68, z=-457}
+[13:23:01] [Server thread/INFO]: Ryuku46[/127.38.203.138:59909] logged in with entity id 31235 at (66.85108800406734, 73.0, 63.01184858370266)
+[13:23:01] [Server thread/INFO]: multiplayer.player.joined
+[13:24:48] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
+[13:24:48] [Server thread/INFO]: multiplayer.player.left
+[13:24:54] [Server thread/INFO]: Itsjose100xD[/127.109.70.242:39411] logged in with entity id 32149 at (-475.7701880859508, 65.0, -489.21561508175387)
+[13:24:54] [Server thread/INFO]: multiplayer.player.joined
+[13:26:42] [Server thread/INFO]: [Not Secure] chat.type.text
+[13:26:48] [Server thread/INFO]: [Not Secure] chat.type.text
+[13:26:50] [Server thread/INFO]: [Not Secure] chat.type.text
+[13:27:11] [Server thread/INFO]: [Not Secure] chat.type.text
