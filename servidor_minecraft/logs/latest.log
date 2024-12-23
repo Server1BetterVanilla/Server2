@@ -274,3 +274,5 @@
 [12:20:16] [Server thread/INFO]: nachopellet[/127.173.228.81:39609] logged in with entity id 1836 at (-454.5584555561857, 64.9375, -498.25681811814513)
 [12:20:16] [Server thread/INFO]: multiplayer.player.joined
 [12:22:05] [Server thread/INFO]: [Not Secure] chat.type.text
+[12:30:04] [Server thread/INFO]: chat.type.advancement.task
+[12:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7540ms or 150 ticks behind
