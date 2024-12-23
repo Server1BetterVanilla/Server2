@@ -3871,6 +3871,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-23 13:36:50 +0000",
       "minecraft:nether_wastes": "2024-12-23 13:32:52 +0000",
+      "minecraft:soul_sand_valley": "2024-12-23 14:02:40 +0000",
       "minecraft:basalt_deltas": "2024-12-23 13:58:51 +0000"
     },
     "done": false
@@ -4187,17 +4188,17 @@
     },
     "done": true
   },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "skeleton_camp_crimson": "2024-12-23 13:57:14 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-23 13:54:21 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "skeleton_camp_crimson": "2024-12-23 13:57:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }
