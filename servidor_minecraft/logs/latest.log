@@ -271,3 +271,6 @@
 [12:10:31] [Server thread/INFO]: multiplayer.player.joined
 [12:11:05] [Server thread/INFO]: chat.type.admin
 [12:16:08] [Server thread/INFO]: chat.type.advancement.task
+[12:20:16] [Server thread/INFO]: nachopellet[/127.173.228.81:39609] logged in with entity id 1836 at (-454.5584555561857, 64.9375, -498.25681811814513)
+[12:20:16] [Server thread/INFO]: multiplayer.player.joined
+[12:22:05] [Server thread/INFO]: [Not Secure] chat.type.text
