@@ -445,3 +445,15 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 [13:26:48] [Server thread/INFO]: [Not Secure] chat.type.text
 [13:26:50] [Server thread/INFO]: [Not Secure] chat.type.text
 [13:27:11] [Server thread/INFO]: [Not Secure] chat.type.text
+[13:32:50] [Server thread/INFO]: chat.type.advancement.task
+[13:32:53] [Server thread/INFO]: chat.type.advancement.task
+[13:33:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=94, z=-49} class_2338{x=-18, y=91, z=-49}
+[13:34:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=85, z=-51} class_2338{x=-27, y=84, z=-50}
+[13:34:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-29, y=84, z=-50} class_2338{x=-28, y=83, z=-50}
+[13:35:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=11, y=78, z=-28} class_2338{x=11, y=77, z=-28}
+[13:35:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=11, y=78, z=-28} class_2338{x=11, y=77, z=-28}
+[13:35:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=11, y=78, z=-28} class_2338{x=11, y=77, z=-28}
+[13:35:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=11, y=78, z=-28} class_2338{x=11, y=77, z=-28}
+[13:37:18] [Server thread/INFO]: chat.type.advancement.task
+[13:38:54] [Server thread/INFO]: chat.type.advancement.task
+[13:39:17] [Server thread/INFO]: chat.type.advancement.task
