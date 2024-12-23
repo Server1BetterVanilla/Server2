@@ -531,3 +531,8 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 [14:08:52] [Server thread/INFO]: Itsjose100xD[/127.109.70.242:49497] logged in with entity id 42437 at (38.36128134159845, 15.0, 73.49124957337663)
 [14:08:52] [Server thread/INFO]: multiplayer.player.joined
 [14:09:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=18, z=67} class_2338{x=96, y=18, z=68}
+[14:10:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3, y=50, z=32} class_2338{x=0, y=52, z=30}
+[14:15:14] [Server thread/INFO]: Itsjose100xD lost connection: multiplayer.disconnect.generic
+[14:15:14] [Server thread/INFO]: multiplayer.player.left
+[14:20:09] [Server thread/INFO]: Itsjose100xD[/127.109.70.242:53941] logged in with entity id 45021 at (-480.5253883589671, 65.0, -489.30000001192093)
+[14:20:09] [Server thread/INFO]: multiplayer.player.joined
