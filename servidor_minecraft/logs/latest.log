@@ -316,3 +316,25 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 	at net.minecraft.class_1297.method_5651(class_1297.java:2026) ~[server-intermediary.jar:?]
 	... 24 more
 [12:49:05] [Server thread/INFO]: [Not Secure] chat.type.text
+[12:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-458, y=73, z=-446} class_2338{x=-451, y=76, z=-446}
+[12:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-458, y=73, z=-446} class_2338{x=-451, y=76, z=-446}
+[12:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-440, y=74, z=-446} class_2338{x=-437, y=73, z=-446}
+[12:54:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-440, y=75, z=-446} class_2338{x=-441, y=76, z=-446}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-442, y=69, z=-474} class_2338{x=-440, y=70, z=-473}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=72, z=-470} class_2338{x=-442, y=71, z=-469}
+[12:57:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-443, y=74, z=-469} class_2338{x=-442, y=73, z=-468}
+[12:58:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-447, y=74, z=-450} class_2338{x=-447, y=71, z=-448}
