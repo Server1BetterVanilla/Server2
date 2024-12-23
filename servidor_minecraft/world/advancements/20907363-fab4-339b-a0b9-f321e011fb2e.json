@@ -3870,7 +3870,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-23 13:36:50 +0000",
-      "minecraft:nether_wastes": "2024-12-23 13:32:52 +0000"
+      "minecraft:nether_wastes": "2024-12-23 13:32:52 +0000",
+      "minecraft:basalt_deltas": "2024-12-23 13:58:51 +0000"
     },
     "done": false
   },
@@ -4165,6 +4166,36 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-23 13:40:50 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-12-23 13:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-23 13:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-23 13:54:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "skeleton_camp_crimson": "2024-12-23 13:57:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-23 13:54:21 +0000"
     },
     "done": true
   },

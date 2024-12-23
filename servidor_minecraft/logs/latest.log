@@ -465,3 +465,24 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 [13:49:40] [Server thread/INFO]: Itsjose100xD[/127.109.70.242:36451] logged in with entity id 37260 at (-273.30000001192093, 90.0, 168.69999998807907)
 [13:49:40] [Server thread/INFO]: multiplayer.player.joined
 [13:49:43] [Server thread/INFO]: chat.type.advancement.task
+[13:51:13] [Server thread/INFO]: Itsjose100xD lost connection: multiplayer.disconnect.generic
+[13:51:13] [Server thread/INFO]: multiplayer.player.left
+[13:52:10] [Server thread/INFO]: death.attack.mob
+[13:53:00] [Server thread/INFO]: nachopellet lost connection: multiplayer.disconnect.generic
+[13:53:00] [Server thread/INFO]: multiplayer.player.left
+[13:53:14] [Server thread/INFO]: Itsjose100xD[/127.109.70.242:39095] logged in with entity id 37589 at (-275.79220833281033, 82.0, 168.75512035464186)
+[13:53:14] [Server thread/INFO]: multiplayer.player.joined
+[13:53:15] [Server thread/INFO]: nachopellet[/127.173.228.81:49001] logged in with entity id 37732 at (-267.69999998807907, 81.0, 170.30000001192093)
+[13:53:15] [Server thread/INFO]: multiplayer.player.joined
+[13:54:00] [Server thread/INFO]: chat.type.advancement.task
+[13:54:21] [Server thread/INFO]: chat.type.advancement.task
+[13:56:09] [Server thread/INFO]: nachopellet lost connection: multiplayer.disconnect.generic
+[13:56:09] [Server thread/INFO]: multiplayer.player.left
+[13:56:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=84, z=171} class_2338{x=-274, y=87, z=163}
+[13:56:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=84, z=171} class_2338{x=-274, y=87, z=163}
+[13:56:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=84, z=171} class_2338{x=-274, y=87, z=163}
+[13:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=84, z=171} class_2338{x=-274, y=87, z=163}
+[13:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=84, z=171} class_2338{x=-274, y=87, z=163}
+[13:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=84, z=171} class_2338{x=-274, y=87, z=163}
+[13:56:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-272, y=86, z=157} class_2338{x=-272, y=87, z=157}
+[13:56:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-272, y=86, z=157} class_2338{x=-272, y=87, z=157}
