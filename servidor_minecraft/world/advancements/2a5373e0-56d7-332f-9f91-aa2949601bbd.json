@@ -1282,6 +1282,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-15 20:58:30 +0000",
+      "minecraft:breeze": "2024-12-23 15:27:34 +0000",
       "minecraft:zombified_piglin": "2024-12-17 21:04:43 +0000",
       "minecraft:enderman": "2024-12-21 22:41:41 +0000",
       "minecraft:stray": "2024-12-21 22:59:17 +0000",
@@ -2816,6 +2817,36 @@
   "minecraft:wander_add_map": {
     "criteria": {
       "wandering": "2024-12-23 14:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-23 15:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-12-23 15:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-23 15:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-23 15:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-23 15:32:55 +0000"
     },
     "done": true
   },
