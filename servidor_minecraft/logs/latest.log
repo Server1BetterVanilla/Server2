@@ -276,3 +276,43 @@
 [12:22:05] [Server thread/INFO]: [Not Secure] chat.type.text
 [12:30:04] [Server thread/INFO]: chat.type.advancement.task
 [12:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7540ms or 150 ticks behind
+[12:44:22] [Server thread/INFO]: nachopellet lost connection: multiplayer.disconnect.generic
+[12:44:22] [Server thread/INFO]: multiplayer.player.left
+[12:46:04] [Server thread/INFO]: nachopellet[/127.173.228.81:36157] logged in with entity id 12229 at (-493.2688154109128, 69.0, -456.11487096010177)
+[12:46:04] [Server thread/INFO]: multiplayer.player.joined
+[12:47:12] [Server thread/WARN]: Failed to execute function vanilla_refresh:other/clock/20tick
+net.minecraft.class_148: Loading entity NBT
+	at net.minecraft.class_1297.method_5651(class_1297.java:2035) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3169.method_13880(class_3169.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3164.method_13901(class_3164.java:372) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3164.method_13887(class_3164.java:68) ~[server-intermediary.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(class_2170.java:379) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2991.method_12904(class_2991.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_231.method_17938(class_231.java:18) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraft.class_231.method_967(class_231.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_231.method_974(class_231.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_236.method_988(class_236.java:84) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_29203(class_3218.java:432) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:332) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1021) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:299) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:912) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInteractGoal
+	at net.minecraft.class_1343.<init>(class_1343.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1339.<init>(class_1339.java:21) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.handler$bjh000$weather_classic$setCanBreakDoorsMixin(class_1642.java:688) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_7201(class_1642.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_5749(class_1642.java:424) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1297.method_5651(class_1297.java:2026) ~[server-intermediary.jar:?]
+	... 24 more
+[12:49:05] [Server thread/INFO]: [Not Secure] chat.type.text
