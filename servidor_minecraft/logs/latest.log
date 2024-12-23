@@ -536,3 +536,5 @@ Caused by: java.lang.IllegalArgumentException: Unsupported mob type for DoorInte
 [14:15:14] [Server thread/INFO]: multiplayer.player.left
 [14:20:09] [Server thread/INFO]: Itsjose100xD[/127.109.70.242:53941] logged in with entity id 45021 at (-480.5253883589671, 65.0, -489.30000001192093)
 [14:20:09] [Server thread/INFO]: multiplayer.player.joined
+[14:38:05] [Server thread/INFO]: chat.type.advancement.challenge
+[14:38:10] [Server thread/INFO]: chat.type.advancement.challenge
