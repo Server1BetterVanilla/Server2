@@ -1,11 +1,11 @@
-[14:58:53] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[14:58:53] [ForkJoinPool-1-worker-1/WARN]: Mod riding_partners uses the version mc1.21-v1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[14:58:54] [main/WARN]: Warnings were found!
+[16:28:04] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[16:28:05] [ForkJoinPool-1-worker-2/WARN]: Mod riding_partners uses the version mc1.21-v1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:28:05] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.0.8 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Horse Expert' (horseexpert) 21.0.0 recommends any version of trinkets, which is missing!
 	 - You should install any version of trinkets for the optimal experience.
-[14:58:54] [main/INFO]: Loading 134 mods:
+[16:28:05] [main/INFO]: Loading 134 mods:
 	- amendments 1.21-1.2.17
 	- amplified_nether 1.2.6
 	- antique_atlas 2.9.17+1.21
@@ -153,182 +153,117 @@
 	- yungsapi 1.21.1-Fabric-5.1.2
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[14:58:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:58:54] [main/INFO]: Compatibility level set to JAVA_17
-[14:58:54] [main/INFO]: Compatibility level set to JAVA_21
-[14:58:54] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:58:54] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:58:54] [main/WARN]: Reference map 'horseexpert.common.refmap.json' for horseexpert.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:58:54] [main/WARN]: Reference map 'horseexpert.fabric.refmap.json' for horseexpert.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:58:54] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:58:54] [main/INFO]: Loaded configuration file for ModernFix 5.19.1+mc1.21: 54 options available, 0 override(s) found
-[14:58:54] [main/INFO]: Applying Nashorn fix
-[14:58:54] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:58:55] [main/WARN]: Error loading class: sereneseasons/season/RandomUpdateHandler (java.lang.ClassNotFoundException: sereneseasons/season/RandomUpdateHandler)
-[14:58:55] [main/WARN]: @Mixin target sereneseasons.season.RandomUpdateHandler was not found snowrealmagic.mixins.json:sereneseasons.RandomUpdateHandlerMixin from mod snowrealmagic
-[14:58:55] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[14:58:55] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[14:58:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:58:58] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[14:59:01] [main/INFO]: Vanilla bootstrap took 5403 milliseconds
-[14:59:01] [main/INFO]: fabric loader environment detected
-[14:59:02] [main/INFO]: Loaded config for: cupboard.json
-[14:59:02] [main/INFO]: Loaded config amendments-common.json
-[14:59:03] [main/ERROR]: No data fixer registered for handcrafted
-[14:59:03] [main/INFO]: Constructing common components for horseexpert:main
-[14:59:03] [main/INFO]: Initializing JamLib on Fabric
-[14:59:03] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[14:59:03] [main/INFO]: ---------------------------
-[14:59:03] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[14:59:03] [main/INFO]:  
-[14:59:03] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[14:59:03] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[14:59:03] [main/INFO]:  
-[14:59:03] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[14:59:03] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[14:59:03] [main/INFO]:  
-[14:59:03] [main/INFO]: Json-smart Copyright © netplex.
-[14:59:03] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[14:59:03] [main/INFO]:  
-[14:59:03] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[14:59:03] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[14:59:03] [main/INFO]: ---------------------------
-[14:59:03] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[14:59:03] [main/INFO]: Constructing common components for leavesbegone:main
-[14:59:03] [main/WARN]: [MELODY] Disabling Melody since it's loaded server-side.
-[14:59:03] [main/INFO]: Constructing common components for puzzleslib:main
-[14:59:03] [main/INFO]: Updated config file at /workspaces/Server2/servidor_minecraft/config/rightclickharvest.json5
-[14:59:03] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[14:59:03] [main/INFO]: Loaded config supplementaries-common.json
-[14:59:04] [main/INFO]: [Surveyor] is not a map mod
-[14:59:04] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@50763f2c]
-[14:59:04] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
-[14:59:04] [main/INFO]: Reflections took 53 ms to scan 1 urls, producing 1 keys and 3 values
-[14:59:04] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
-[14:59:05] [main/INFO]: Processing 3 KiwiModule annotations
-[14:59:05] [main/INFO]: Module [snowrealmagic:core] initialized
-[14:59:05] [main/INFO]: 		block: 11, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
-[14:59:05] [main/INFO]: Module [kiwi:data] initialized
-[14:59:05] [main/INFO]: 		recipe_serializer: 2
-[14:59:05] [main/INFO]: Initialized block sets in 20ms
-[14:59:05] [main/ERROR]: No data fixer registered for falling_lantern
-[14:59:05] [main/ERROR]: No data fixer registered for dispenser_minecart
-[14:59:05] [main/ERROR]: No data fixer registered for falling_urn
-[14:59:05] [main/ERROR]: No data fixer registered for falling_ash
-[14:59:05] [main/ERROR]: No data fixer registered for falling_sack
-[14:59:05] [main/ERROR]: No data fixer registered for brick_projectile
-[14:59:05] [main/ERROR]: No data fixer registered for slimeball_projectile
-[14:59:05] [main/ERROR]: No data fixer registered for bomb
-[14:59:05] [main/ERROR]: No data fixer registered for cannonball
-[14:59:05] [main/ERROR]: No data fixer registered for rope_arrow
-[14:59:05] [main/ERROR]: No data fixer registered for slingshot_projectile
-[14:59:05] [main/INFO]: Initialized color sets in 35ms
-[14:59:05] [main/INFO]: Finished mod setup in: [0, 1, 0, 0, 22, 3, 0] ms
-[14:59:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:59:06] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 29 ms
-[14:59:07] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/heaven:chests/heaven_village/general - No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/fletcher"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/farm"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/toolsmith"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/librarian"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/butcher"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/temple"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/mason"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/cartographer"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/tannery"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/weaponsmith"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/armorer"}]
-[14:59:07] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/heaven:chests/heaven_village/fletcher - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Anti-Gravity Arrow\",\"italic\":false}'},HideFlags:32,CustomPotionEffects:[{Id:4b,Amplifier:3b,Duration:-1,ShowParticles:0b}],CustomPotionColor:10084607}"}
-[14:59:08] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[14:59:08] [main/INFO]: Loaded 1901 recipes
-[14:59:09] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[14:59:09] [main/INFO]: Loaded 2029 advancements
-[14:59:09] [main/INFO]: Loaded 27 flute songs
-[14:59:09] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:ingots/lead, c:storage_blocks/lead, minecraft:music_discs, supplementaries:buntings, supplementaries:concrete_powders
-[14:59:09] [main/INFO]: Registering custom dispenser behaviors
-[14:59:09] [main/INFO]: Applied 108 biome modifications to 54 of 70 new biomes in 11.80 ms
-[14:59:09] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
-[14:59:09] [Server thread/INFO]: Starting minecraft server version 1.21
-[14:59:09] [Server thread/INFO]: Loading properties
-[14:59:09] [Server thread/INFO]: Default game type: SURVIVAL
-[14:59:09] [Server thread/INFO]: Generating keypair
-[14:59:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:59:10] [Server thread/INFO]: Using epoll channel type
-[14:59:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:59:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:59:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:59:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:59:10] [Server thread/INFO]: Preparing level "world"
-[14:59:10] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
-[14:59:11] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
-[14:59:12] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
-[14:59:12] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
-[14:59:12] [Server thread/INFO]: [Surveyor] Loading data for heaven:sky
-[14:59:12] [Server thread/INFO]: [Surveyor] Finished loading data for heaven:sky
-[14:59:12] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
-[14:59:12] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
-[14:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:59:13] [Worker-Main-3/INFO]: menu.preparingSpawn
-[14:59:13] [Worker-Main-3/INFO]: menu.preparingSpawn
-[14:59:13] [Worker-Main-3/INFO]: menu.preparingSpawn
-[14:59:13] [Server thread/INFO]: Time elapsed: 1586 ms
-[14:59:13] [Server thread/INFO]: Done (3.584s)! For help, type "help"
-[14:59:13] [Server thread/WARN]: Dedicated server took 21.252 seconds to load
-[14:59:13] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_faucet_test_level
-[14:59:13] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_faucet_test_level
-[14:59:24] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_projectile_test_level
-[14:59:24] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_projectile_test_level
-[14:59:32] [Server thread/INFO]: Ryuku46[/127.38.203.138:51465] logged in with entity id 64 at (66.54652249735614, 73.0, 65.04407461781045)
-[14:59:32] [Server thread/INFO]: multiplayer.player.joined
-[14:59:32] [Server thread/INFO]: Foxy77_YT[/127.85.7.69:33911] logged in with entity id 68 at (532.2986309454286, 63.0, -4858.363757832782)
-[14:59:32] [Server thread/INFO]: multiplayer.player.joined
-[15:00:48] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:00:49] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:00:56] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:01:02] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:01:04] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:01:08] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:02:20] [Server thread/INFO]: chat.type.advancement.task
-[15:03:57] [Server thread/INFO]: chat.type.admin
-[15:04:08] [Server thread/INFO]: chat.type.admin
-[15:11:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=349, y=65, z=-4833} class_2338{x=349, y=64, z=-4834}
-[15:13:26] [Server thread/INFO]: Ryuku46 lost connection: disconnect.genericReason
-[15:13:26] [Server thread/INFO]: multiplayer.player.left
-[15:13:32] [Server thread/INFO]: Ryuku46[/127.38.203.138:56909] logged in with entity id 10152 at (68.34775629642306, 73.0, 65.32774561385695)
-[15:13:32] [Server thread/INFO]: multiplayer.player.joined
-[15:13:36] [Server thread/INFO]: Foxy77_YT lost connection: multiplayer.disconnect.generic
-[15:13:36] [Server thread/INFO]: multiplayer.player.left
-[15:13:38] [Server thread/INFO]: Foxy77_YT[/127.85.7.69:56365] logged in with entity id 10371 at (498.85609578294356, 67.0, -4860.300561870306)
-[15:13:38] [Server thread/INFO]: multiplayer.player.joined
-[15:15:07] [Server thread/INFO]: chat.type.advancement.task
-[15:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17289ms or 345 ticks behind
-[15:17:31] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:17:35] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:17:37] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:17:45] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:17:47] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:17:59] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:03] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:13] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:14] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:22] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:24] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:28] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:35] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:42] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:49] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:55] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:18:58] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:19:22] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:19:28] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:19:34] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:19:37] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:19:48] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:20:00] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:20:06] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:20:13] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:20:34] [Server thread/INFO]: nachopellet[/127.173.228.81:54345] logged in with entity id 13126 at (-269.96278686769546, 95.0, 165.34242275106155)
-[15:20:34] [Server thread/INFO]: multiplayer.player.joined
-[15:20:57] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:21:03] [Server thread/INFO]: chat.type.advancement.task
-[15:21:07] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:21:24] [Server thread/INFO]: [Not Secure] chat.type.text
-[15:27:54] [Server thread/INFO]: death.attack.mob
-[15:28:08] [Server thread/INFO]: nachopellet lost connection: multiplayer.disconnect.generic
-[15:28:08] [Server thread/INFO]: multiplayer.player.left
-[15:38:25] [Server thread/INFO]: Ryuku46 lost connection: multiplayer.disconnect.generic
-[15:38:25] [Server thread/INFO]: multiplayer.player.left
-[15:59:02] [Server thread/INFO]: chat.type.advancement.task
-[16:01:58] [Server thread/INFO]: chat.type.advancement.task
-[16:06:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6245ms or 124 ticks behind
-[16:10:39] [Server thread/INFO]: Foxy77_YT lost connection: multiplayer.disconnect.generic
-[16:10:39] [Server thread/INFO]: multiplayer.player.left
+[16:28:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:28:05] [main/INFO]: Compatibility level set to JAVA_17
+[16:28:05] [main/INFO]: Compatibility level set to JAVA_21
+[16:28:05] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:28:05] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:28:05] [main/WARN]: Reference map 'horseexpert.common.refmap.json' for horseexpert.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:28:05] [main/WARN]: Reference map 'horseexpert.fabric.refmap.json' for horseexpert.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:28:05] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:28:06] [main/INFO]: Loaded configuration file for ModernFix 5.19.1+mc1.21: 54 options available, 0 override(s) found
+[16:28:06] [main/INFO]: Applying Nashorn fix
+[16:28:06] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:28:06] [main/WARN]: Error loading class: sereneseasons/season/RandomUpdateHandler (java.lang.ClassNotFoundException: sereneseasons/season/RandomUpdateHandler)
+[16:28:06] [main/WARN]: @Mixin target sereneseasons.season.RandomUpdateHandler was not found snowrealmagic.mixins.json:sereneseasons.RandomUpdateHandlerMixin from mod snowrealmagic
+[16:28:06] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[16:28:06] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[16:28:06] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:28:09] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[16:28:13] [main/INFO]: Vanilla bootstrap took 5348 milliseconds
+[16:28:13] [main/INFO]: fabric loader environment detected
+[16:28:13] [main/INFO]: Loaded config for: cupboard.json
+[16:28:13] [main/INFO]: Loaded config amendments-common.json
+[16:28:14] [main/ERROR]: No data fixer registered for handcrafted
+[16:28:14] [main/INFO]: Constructing common components for horseexpert:main
+[16:28:14] [main/INFO]: Initializing JamLib on Fabric
+[16:28:14] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[16:28:14] [main/INFO]: ---------------------------
+[16:28:14] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[16:28:14] [main/INFO]:  
+[16:28:14] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[16:28:14] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[16:28:14] [main/INFO]:  
+[16:28:14] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[16:28:14] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[16:28:14] [main/INFO]:  
+[16:28:14] [main/INFO]: Json-smart Copyright © netplex.
+[16:28:14] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[16:28:14] [main/INFO]:  
+[16:28:14] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[16:28:14] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[16:28:14] [main/INFO]: ---------------------------
+[16:28:14] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[16:28:14] [main/INFO]: Constructing common components for leavesbegone:main
+[16:28:14] [main/WARN]: [MELODY] Disabling Melody since it's loaded server-side.
+[16:28:14] [main/INFO]: Constructing common components for puzzleslib:main
+[16:28:14] [main/INFO]: Updated config file at /workspaces/Server2/servidor_minecraft/config/rightclickharvest.json5
+[16:28:14] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[16:28:14] [main/INFO]: Loaded config supplementaries-common.json
+[16:28:15] [main/INFO]: [Surveyor] is not a map mod
+[16:28:15] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@49cc239]
+[16:28:15] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[16:28:15] [main/INFO]: Reflections took 38 ms to scan 1 urls, producing 1 keys and 3 values
+[16:28:15] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[16:28:15] [main/INFO]: Processing 3 KiwiModule annotations
+[16:28:15] [main/INFO]: Module [snowrealmagic:core] initialized
+[16:28:15] [main/INFO]: 		block: 11, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
+[16:28:15] [main/INFO]: Module [kiwi:data] initialized
+[16:28:15] [main/INFO]: 		recipe_serializer: 2
+[16:28:16] [main/INFO]: Initialized block sets in 24ms
+[16:28:16] [main/ERROR]: No data fixer registered for falling_lantern
+[16:28:16] [main/ERROR]: No data fixer registered for dispenser_minecart
+[16:28:16] [main/ERROR]: No data fixer registered for falling_urn
+[16:28:16] [main/ERROR]: No data fixer registered for falling_ash
+[16:28:16] [main/ERROR]: No data fixer registered for falling_sack
+[16:28:16] [main/ERROR]: No data fixer registered for brick_projectile
+[16:28:16] [main/ERROR]: No data fixer registered for slimeball_projectile
+[16:28:16] [main/ERROR]: No data fixer registered for bomb
+[16:28:16] [main/ERROR]: No data fixer registered for cannonball
+[16:28:16] [main/ERROR]: No data fixer registered for rope_arrow
+[16:28:16] [main/ERROR]: No data fixer registered for slingshot_projectile
+[16:28:16] [main/INFO]: Initialized color sets in 28ms
+[16:28:16] [main/INFO]: Finished mod setup in: [0, 1, 0, 0, 20, 2, 0] ms
+[16:28:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:28:16] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 22 ms
+[16:28:18] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/heaven:chests/heaven_village/general - No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/fletcher"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/farm"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/toolsmith"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/librarian"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/butcher"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/temple"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/mason"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/cartographer"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/tannery"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/weaponsmith"}]; No key value in MapLike[{"type":"minecraft:loot_table","name":"heaven:chests/heaven_village/armorer"}]
+[16:28:18] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/heaven:chests/heaven_village/fletcher - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"set_nbt","tag":"{display:{Name:'{\"text\":\"Anti-Gravity Arrow\",\"italic\":false}'},HideFlags:32,CustomPotionEffects:[{Id:4b,Amplifier:3b,Duration:-1,ShowParticles:0b}],CustomPotionColor:10084607}"}
+[16:28:18] [Worker-Main-1/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[16:28:19] [main/INFO]: Loaded 1901 recipes
+[16:28:19] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[16:28:19] [main/INFO]: Loaded 2029 advancements
+[16:28:19] [main/INFO]: Loaded 27 flute songs
+[16:28:19] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:ingots/lead, c:storage_blocks/lead, minecraft:music_discs, supplementaries:buntings, supplementaries:concrete_powders
+[16:28:19] [main/INFO]: Registering custom dispenser behaviors
+[16:28:20] [main/INFO]: Applied 108 biome modifications to 54 of 70 new biomes in 10.46 ms
+[16:28:20] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[16:28:20] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:28:20] [Server thread/INFO]: Loading properties
+[16:28:20] [Server thread/INFO]: Default game type: SURVIVAL
+[16:28:20] [Server thread/INFO]: Generating keypair
+[16:28:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:28:20] [Server thread/INFO]: Using epoll channel type
+[16:28:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:28:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:28:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:28:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:28:20] [Server thread/INFO]: Preparing level "world"
+[16:28:20] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
+[16:28:21] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
+[16:28:21] [Server thread/INFO]: [Surveyor] Loading data for heaven:sky
+[16:28:21] [Server thread/INFO]: [Surveyor] Finished loading data for heaven:sky
+[16:28:21] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
+[16:28:21] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
+[16:28:21] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
+[16:28:21] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
+[16:28:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:28:22] [Worker-Main-2/INFO]: menu.preparingSpawn
+[16:28:22] [Worker-Main-2/INFO]: menu.preparingSpawn
+[16:28:22] [Worker-Main-3/INFO]: menu.preparingSpawn
+[16:28:23] [Server thread/INFO]: Time elapsed: 1402 ms
+[16:28:23] [Server thread/INFO]: Done (3.071s)! For help, type "help"
+[16:28:23] [Server thread/WARN]: Dedicated server took 19.383 seconds to load
+[16:28:23] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_faucet_test_level
+[16:28:23] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_faucet_test_level
+[16:28:32] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_projectile_test_level
+[16:28:32] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_projectile_test_level
